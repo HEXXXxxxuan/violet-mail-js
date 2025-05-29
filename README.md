@@ -2,6 +2,12 @@
 
 A full-stack email management system built with Node.js, React, and MySQL.
 
+## Screenshots
+
+![屏幕截图 2025-05-29 121357](https://github.com/user-attachments/assets/e82cd0a4-abc4-4489-a7e4-664317b7b5e3)
+![屏幕截图 2025-05-29 121416](https://github.com/user-attachments/assets/d39e5061-d402-4b1d-be5f-b4d55476c0e6)
+![屏幕截图 2025-05-29 121447](https://github.com/user-attachments/assets/3dcff1d5-83f5-4b11-9740-8d09ae2fad23)
+
 ## Features
 
 - User authentication with secure password hashing
